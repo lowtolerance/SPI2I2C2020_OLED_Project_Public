@@ -1,0 +1,12 @@
+1. Dialog text color
+2. Dialog background color
+3. Dialog frame color 
+4. Dialog highlight color 
+5. Menu text color 
+6. Menu highlight color 
+7. Menu background color 
+8. Top Menu X position 
+9. Top Menu Y position 
+10. Top Menu Width 
+11. Top Menu Height 
+12. Number of items to display in Top Menus
